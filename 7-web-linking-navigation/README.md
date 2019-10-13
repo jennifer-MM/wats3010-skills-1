@@ -52,7 +52,6 @@ a:hover {
 }
 ```
 
-
 ## Resources
 see [html links](https://www.w3schools.com/html/html_links.asp)  
 and [target attribute](https://www.w3schools.com/tags/att_a_target.asp)
